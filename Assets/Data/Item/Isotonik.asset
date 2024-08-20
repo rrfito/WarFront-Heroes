@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2276b0412ac8b419bbd5a4fe1cab1c, type: 3}
+  m_Name: Isotonik
+  m_EditorClassIdentifier: 
+  itemName: Isotonik
+  itemIcon: {fileID: 21300000, guid: 35e48419951513446bdf7d0c90c78bf3, type: 3}
+  itemID: 3
+  description: ' minuman yang mengandung elektrolit, seperti natrium, kalium, dan
+    magnesium, yang membantu menghidrasi tubuh dengan cepat. Ini sangat berguna untuk
+    menggantikan cairan dan elektrolit yang hilang akibat berkeringat.'
+  stock: 1
