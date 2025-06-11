@@ -18,7 +18,7 @@ Follow these steps to set up and run WarFront Heroes on your local machine using
 1.  **Clone the Repository:**
     Start by cloning the project to your local machine using Git. Open your **Git Bash / Command Prompt / Terminal** and run:
     ```bash
-    git clone [https://github.com/rrfito/WarFront-Heroes.git](https://github.com/rrfito/WarFront-Heroes.git)
+    git clone https://github.com/rrfito/WarFront-Heroes.git
     cd WarFront-Heroes
     ```
     **Note** : or you can click the `code button` on the top right and select the `Zip download`.
