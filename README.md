@@ -4,6 +4,10 @@
   Your main mission is to move quickly and smartly amidst the chaos to locate and provide first aid to wounded soldiers, 
   according to their medical condition. </p>
 
+## 🎮 Play
+if you want to try playing it first, you can try playing it through the link below
+🔗 [Play Now](https://rfito.itch.io/warfront-heroes)
+
 ## ⚙️ Installation & Usage
 
 Follow these steps to set up and run WarFront Heroes on your local machine using Unity Editor.
